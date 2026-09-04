@@ -4,8 +4,7 @@ Batch-rename any set of files with custom patterns — preview every change befo
 ---
 
 ## Live Demo
-_Coming soon_
-
+https://smart-file-renamer.vercel.app/
 ---
 
 ## Features
